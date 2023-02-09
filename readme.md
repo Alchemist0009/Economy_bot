@@ -1,6 +1,7 @@
 List of Bot Commands
 
 $ is the default command prefix
+
 • Bank commands
 Name 	Aliases 	Args 	Usage
 balance 	bal 	None 	$bal
